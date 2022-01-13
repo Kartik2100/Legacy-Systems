@@ -1,7 +1,3 @@
---Assignment 2
---Name: Kartik Patel
---Student Number: 1052085
---Course: CIS*3190
 
 --Packages needed
 with ada.Text_IO; use Ada.Text_IO;
