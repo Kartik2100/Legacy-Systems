@@ -1,8 +1,3 @@
-!  Name: Kartik Patel
-!  Course: CIS3190
-!  Date: February 5, 2021
-!  Student #: 1052085
-    
     program fire
 
 !   Variable declarations
