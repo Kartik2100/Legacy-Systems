@@ -1,6 +1,4 @@
-*> assignment 3
-*> name: kartik patel
-*> student number: 1052085       
+     
        identification division.
        program-id. stats.
 
