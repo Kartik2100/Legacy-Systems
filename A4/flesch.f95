@@ -1,6 +1,4 @@
-! Name: Kartik Patel
-! Student ID Number: 1052085
-! Assignment 4
+
 program flesch
     ! Declaring Variable
     implicit none
